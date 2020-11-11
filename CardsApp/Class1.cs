@@ -4,7 +4,7 @@ namespace CardsApp
 {
     public class Class1
     {
-        /*yo whats up*/
+        /*yo *bro/
         /*version 1*/
     }
 }
